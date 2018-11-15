@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+gov.kktcmeb.security.kktcmebsecurityacl.grant.config.GrantEvaluatorAclConfiguration,\
+gov.kktcmeb.security.kktcmebsecurityacl.elasticsearch.config.ElasticSearchAclConfiguration,\
+gov.kktcmeb.security.kktcmebsecurityacl.jpa.config.JpaSpecAclConfiguration
+
+
